@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="icon" type="image/png" href="images/favicon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Mo Site</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body{margin:0}</style>
+
 </head>
 <body>
 
     <header>
     <nav class="bg-black p-4 text-red-500 flex justify-between items-center">
         <div class="text-2xl font-bold">
-            Mo Site
+            Mo-Portfolio!
         </div>
         <div>
-            <a href="index.html" class="mx-2 hover:text-white">Home</a>
-            <a href="Mo.html" class="mx-2 hover:text-white">Contact</a>
+            <a href="index.php" class="mx-2 hover:text-white">Home</a>
+            <a href="projects.php" class="mx-2 hover:text-white">Projects</a>
+            <a href="contact.php" class="mx-2 hover:text-white">Contact</a>
         </div>
     </header>
 
