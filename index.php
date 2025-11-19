@@ -25,7 +25,7 @@
 
     <main>
         <section class="min-h-screen flex items-center justify-center bg-gray-900 text-white">
-            <h1 class="text-4xl font-bold">Dit is onze Portfolio MoLuSeMi</h1>
+            <h1 class="text-4xl font-bold">Dit is onze Portfolio Mo-Portfolio</h1>
         </section>
     </main>
 
