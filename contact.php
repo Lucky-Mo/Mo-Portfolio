@@ -4,7 +4,7 @@
     <link rel="icon" type="image/png" href="images/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Me!</title>
+    <title>Contact Me!cbv</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body{margin:0}</style>
     
