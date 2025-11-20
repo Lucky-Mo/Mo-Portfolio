@@ -7,6 +7,7 @@
     <title>Contact Me!cbv</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body{margin:0}</style>
+    <link rel="stylesheet" href="contact.css">
     
 </head>
 <body>

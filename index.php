@@ -7,30 +7,31 @@
     <title>Welcome to Mo-Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body{margin:0}</style>
+    <link rel="stylesheet" href="index.css">
 
 </head>
 <body>
 
     <header>
-    <nav class="bg-black p-4 text-red-500 flex justify-between items-center">
-        <div class="text-2xl font-bold">
+    <nav class="navbar">
+        <div class=".">
             Mo-Portfolio!
         </div>
-        <div>
-            <a href="index.php" class="mx-2 hover:text-white">Home</a>
-            <a href="projects.php" class="mx-2 hover:text-white">Projects</a>
-            <a href="contact.php" class="mx-2 hover:text-white">Contact</a>
+        <div class=".">
+            <a href="index.php" class=".">Home</a>
+            <a href="projects.php" class=".">Projects</a>
+            <a href="contact.php" class=".">Contact</a>
         </div>
     </header>
 
     <main>
-        <section class="min-h-screen flex items-center justify-center bg-gray-900 text-white">
-            <h1 class="text-4xl font-bold">Dit is onze Portfolio Mo-Portfolio</h1>
+        <section>
+            <h1 class=".">Welcome To My Portfolio</h1>
         </section>
     </main>
 
     <footer>
-<div>this is the footer</div>
+<div class=".">this is the footer</div>
     </footer>
    
 </body>
