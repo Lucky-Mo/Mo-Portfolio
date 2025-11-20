@@ -30,7 +30,7 @@
     </main>
 
     <footer>
-this is the footer
+<div>this is the footer</div>
     </footer>
    
 </body>
