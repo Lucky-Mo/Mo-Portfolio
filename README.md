@@ -4,3 +4,4 @@ I am building my Personal/business portfolio.
     Good!
 IT WORKS ON THE LAPTOP WITH GIT
 and now on pc!
+when i am at school i will see if it works and if i can see this!
