@@ -1,38 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="css/index.css">
     <link rel="icon" type="image/png" href="images/favicon.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to Mo-Portfolio</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <style>body{margin:0}</style>
-    <link rel="stylesheet" href="index.css">
-
-</head>
-<body>
-
-    <header>
-    <nav class="navbar">
-        <div class=".">
-            Mo-Portfolio!
+    <meta http-equiv="refresh" content=""> 
+ </head>
+    <body>
+        <header>
+            <a class="logo" href="index.php"><img src="images/favicon.ico" alt="logo"></a>
+            <nav>
+                <ul class="nav__links">
+                    <li><a href="mo.php">About Me</a></li>
+                    <li><a href="projects.php">Projects</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                </ul>
+            </nav>
+            <a class="cta" href="#">Translate</a>
+            <p class="menu cta">Menu</p>
+        </header>
+        <div class="overlay">
+            <a class="close">&times;</a>
+            <div class="overlay__content">
+                <a href="#">Services</a>
+                <a href="#">Projects</a>
+                <a href="#">About</a>
+            </div>
         </div>
-        <div class=".">
-            <a href="index.php" class=".">Home</a>
-            <a href="projects.php" class=".">Projects</a>
-            <a href="contact.php" class=".">Contact</a>
-        </div>
-    </header>
-
-    <main>
-        <section>
-            <h1 class=".">Welcome To My Portfolio</h1>
-        </section>
-    </main>
-
-    <footer>
-<div class=".">this is the footer</div>
-    </footer>
-   
-</body>
+        <script type="text/javascript" src="mobile.js"></script>
+    </body>
 </html>
+
+
+

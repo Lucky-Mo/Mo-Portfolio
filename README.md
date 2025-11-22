@@ -1,7 +1,3 @@
 /Welcome to Mo-Portfolio!/
 I am building my Personal/business portfolio.
-    i a using now with github on xamp! :23:47
-    Good!
-IT WORKS ON THE LAPTOP WITH GIT
-and now on pc!
-when i am at school i will see if it works and if i can see this!
+    First time i am using github on a projects!
