@@ -3,3 +3,4 @@ I am building my Personal/business portfolio.
     i a using now with github on xamp! :23:47
     Good!
 IT WORKS ON THE LAPTOP WITH GIT
+and now on pc!
