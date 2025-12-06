@@ -84,11 +84,11 @@ body {
 
 .container {
   position: relative;
-  padding: 2px;
+  padding: 4px;
   background: linear-gradient(90deg, #03a9f4, #f441a5);
   border-radius: 0.8em;
   transition: all 0.4s ease;
-  margin: 3px;
+  margin: 4px;
 }
 
 .container::before {
@@ -159,6 +159,7 @@ body {
 /* Beginning of main! */
 
 .hero-text {
+  position: relative;
   font-size: 1rem;
   box-sizing: border-box;
   color: #fff;
@@ -185,16 +186,18 @@ body {
   line-height: 1.6;
 }
 
-.hero-text .btn {
+/* .hero-text .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background-color: #ff6f61; /* opvallende knopkleur */
+  background-color: #ff6f61; 
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
   font-weight: 600;
   transition: background-color 0.3s ease;
-}
+} */
+
+
 
 .hero-text .btn:hover {
   background-color: #e85c50; /* hover effect */
